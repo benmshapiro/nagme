@@ -30,4 +30,5 @@ Under Devrelopment, but a demo link will be listed here soon!
 * Firebase
 * Angular
 * TypeScript
+* Sass
 * HTML
